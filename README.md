@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-bash ### 📊 My Most Used Languages
+📊 My Most Used Languages
 ![Eduardo Arevalo's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu568&layout=compact)
 
 -->
